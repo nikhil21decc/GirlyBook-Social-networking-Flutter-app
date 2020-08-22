@@ -58,26 +58,30 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1597902206835" />
+    <state x="296" y="0" key="CommitChangelistDialog2" timestamp="1598135757741">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="296" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1598135757741" />
     <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1598130530510">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598130530510" />
-    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1598111367314">
+    <state width="1220" height="160" key="GridCell.Tab.0.bottom" timestamp="1598135801535">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598111367314" />
-    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1598111367313">
+    <state width="1220" height="160" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598135801535" />
+    <state width="1220" height="160" key="GridCell.Tab.0.center" timestamp="1598135801535">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598111367313" />
-    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1598111367312">
+    <state width="1220" height="160" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598135801535" />
+    <state width="1220" height="160" key="GridCell.Tab.0.left" timestamp="1598135801534">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598111367312" />
-    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1598111367314">
+    <state width="1220" height="160" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598135801534" />
+    <state width="1220" height="160" key="GridCell.Tab.0.right" timestamp="1598135801535">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598111367314" />
+    <state width="1220" height="160" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598135801535" />
     <state x="221" y="84" key="IDE.errors.dialog" timestamp="1598038643005">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -86,14 +90,18 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597049276029" />
-    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598096741788">
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598135785639">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1598096741788" />
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1598135785639" />
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597408363537">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1597408363537" />
+    <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598135742765">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="450" y="257" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1598135742765" />
     <state width="336" height="86" key="javadoc.popup.new" timestamp="1598098586798">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
