@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1059430739420",
+    "firebase_url": "https://girlybook-b0149.firebaseio.com",
+    "project_id": "girlybook-b0149",
+    "storage_bucket": "girlybook-b0149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059430739420:android:3786e0467041f831ecb319",
+        "android_client_info": {
+          "package_name": "com.n21decc.girlybook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059430739420-6d1793c24f336lfea02l5i376gcrd7v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.n21decc.girlybook",
+            "certificate_hash": "01a0bf40903622f29a6a98499007ff923afeb430"
+          }
+        },
+        {
+          "client_id": "1059430739420-7htr99mp5a4e2dpvsgjejicin0icup0u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUf6aZUJmjKHGPCPn1onV-bMRCiZRLre8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059430739420-7htr99mp5a4e2dpvsgjejicin0icup0u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

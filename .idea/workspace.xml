@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="15219b74-bcca-46a9-8517-7d47e1dffdc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fpf1hyY3KhlzML1p5TIZh6FVsx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../flash-chat-flutter" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nikhil\AndroidStudioProjects\girlybook\android\app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="15219b74-bcca-46a9-8517-7d47e1dffdc4" name="Default Changelist" comment="" />
+      <created>1596866214726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596866214726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597902206835">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="321" y="68" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1597902206835" />
+    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1598130530510">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1598130530510" />
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1598111367314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1598111367314" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1598111367313">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1598111367313" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1598111367312">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1598111367312" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1598111367314">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1598111367314" />
+    <state x="221" y="84" key="IDE.errors.dialog" timestamp="1598038643005">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="221" y="84" key="IDE.errors.dialog/0.0.1280.680@0.0.1280.680" timestamp="1598038643005" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1597049276029">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1597049276029" />
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598096741788">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1280.680@0.0.1280.680" timestamp="1598096741788" />
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597408363537">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="93" y="93" width="1095" height="495" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.680@0.0.1280.680" timestamp="1597408363537" />
+    <state width="336" height="86" key="javadoc.popup.new" timestamp="1598098586798">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="336" height="86" key="javadoc.popup.new/0.0.1280.680@0.0.1280.680" timestamp="1598098586798" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1596973540141">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1596973540141" />
+  </component>
+</project>
