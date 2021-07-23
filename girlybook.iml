@@ -9,6 +9,12 @@
       <excludeFolder url="file://$MODULE_DIR$/.idea" />
       <excludeFolder url="file://$MODULE_DIR$/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flu/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flu/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flu/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_localization/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_localization/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_localization/build" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Dart SDK" level="project" />
