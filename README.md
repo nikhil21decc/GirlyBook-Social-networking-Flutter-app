@@ -1,15 +1,8 @@
-# girlybook
+1. Developed an android app that allows users to stay
+connected with friends, family or peers.
+2. Users can create profile, follow users, post images with
+caption & location, like & comment on posts, search users etc.
+3. Technologies used: Flutter, Firebase , APIs.
 
-A new Flutter application.
+Live Android Apk of GirlyBook: https://drive.google.com/file/d/1sdlz8CowgyDMkPVJh0PwMDa4MYhT4cCc/view?usp=drivesdk
 
-## Getting Started
-
-1. Developed a cross platform mobile app that allows GoogleSignIn for
-Auth,create username,edit profile,follow and unfollow different
-users,post images with caption and location,like and comments on
-posts,search users,activity feed page,timeline page,my profile
-page,logout option.
-
-2. Apk of GirlyBook https://drive.google.com/file/d/1sdlz8CowgyDMkPVJh0PwMDa4MYhT4cCc/view?usp=drivesdk
-
-Install it and use GirlyBook.
